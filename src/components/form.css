@@ -1,0 +1,27 @@
+.form {
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+.form .card {
+  padding: 26px;
+}
+
+.form-actions {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin-top: 16px;
+  flex-wrap: wrap;
+}
+
+.link {
+  color: rgba(167, 139, 250, 1);
+  font-weight: 650;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
